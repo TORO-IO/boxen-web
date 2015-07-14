@@ -70,5 +70,3 @@ should be set via `heroku config:set`:
   * `REF` to fetch a specific reference from REPOSITORY.
 
 ## Halp!
-
-Use Issues or #boxen on irc.freenode.net.
